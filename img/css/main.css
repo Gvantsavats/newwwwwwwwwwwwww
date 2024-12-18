@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+@font-face {
+    src: url(3d_unicode.ttf);
+    font-family: gvanca;
+}
+
+body {
+
+
+    background-color: #eeeeee;
+}
+
+
+img { width: 100px;
+
+}
+
+
+.box {
+    background-color: #ffffff;
+    margin: 20px;
+    padding: 20px;
+
+
+
+
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-family: "gvanca" 
+
+}
+
+ul {
+    list-style: georgian;
+    font-family: "gvanca"
+
+}
+
+a {
+    color: black;
+    text-decoration: none;
+
+}
+
+h1 {
+    font-family: "Jaro", sans-serif;
+
+
+}
